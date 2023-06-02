@@ -6,6 +6,8 @@ Check out my website at [https://lucasdlee.github.io/](https://lucasdlee.github.
 
 ## Socials :globe_with_meridians:
 
-[![linkedin](linkedin.png)](https://www.linkedin.com/in/lucas-lee-7b0bb3201/)
+-[![linkedin](linkedin.png)](https://www.linkedin.com/in/lucas-lee-7b0bb3201/)
+
 [![gmail](gmail.png)](mailto:lucasdlee23@gmail.com)
+
 [![github](github.png)](https://github.com/LucasDLee)
