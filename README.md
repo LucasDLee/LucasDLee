@@ -1,6 +1,6 @@
 ## About Me :wave:
 
-Hello there! Nice to meet you. My name is Lucas Lee, a skilled software developer. Currently, I'm studying full time at Simon Fraser University while working part time as a SAP intern developer with [Adapt Technology Consulting](https://www.linkedin.com/company/adapt-technologies-consulting-inc/).
+Hello there! Nice to meet you. My name is Lucas Lee, a skilled software developer. Currently, I'm doing an exchange semester with VU Amsterdam!
 
 Check out my website at [https://lucasdlee.github.io/](https://lucasdlee.github.io/) for more information about me.
 
